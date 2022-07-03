@@ -1,5 +1,5 @@
 # AS Helper
-[Скачать автоматчиеский установщик](https://github.com/MrQwer55/AS-Helper/blob/main/AS%20Helper.exe?raw=true)
+[Скачать автоматический установщик](https://github.com/MrQwer55/AS-Helper/blob/main/AS%20Helper.exe?raw=true)
 
 [Скачать архив для ручной установки](https://github.com/MrQwer55/AS-Helper/blob/main/AS%20Helper.zip?raw=true)
 
